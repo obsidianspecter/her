@@ -26,7 +26,7 @@ const events: TimelineEvent[] = [
     description: "Celebrating love and creating memories that will last a lifetime.",
   },
   {
-    date: "May 15, 2025",
+    date: "June 21, 2025",
     title: "Your Birthday",
     description: "Celebrating the day the world received its most precious gift - you.",
   },
